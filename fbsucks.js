@@ -1,4 +1,4 @@
-var dp = (function () {
+(function () {
     var api = {};
 
     function is_delete(e) {
