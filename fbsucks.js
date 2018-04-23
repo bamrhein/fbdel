@@ -1,4 +1,5 @@
-(function () {
+// Run: paste into console. Then do "dp.main();"
+var dp = (function () {
     var api = {};
 
     function is_delete(e) {
